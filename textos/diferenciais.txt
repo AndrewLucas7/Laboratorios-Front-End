@@ -1,4 +1,4 @@
-diferenciais.txt
+sobre.txt
 Diferenciais
 
 * Menor preço do varejo, garantido
